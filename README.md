@@ -1,7 +1,7 @@
 # Task1-KeshavSoft
 # AetherFlow – Creative Digital Agency Website  
 **Submitted by:** **T Yaseen Basha**  
-**Live Demo:** [https://yourusername.github.io/aetherflow](https://yourusername.github.io/aetherflow)  
+**Live Demo:** [https://yaseenbashat.github.io/aetherflow](https://yaseenbashat.github.io/Task1-KeshavSoft/)  
 **GitHub Repo:** https://github.com/YaseenBashaT/Task1-KeshavSoft
 ---
 
@@ -89,7 +89,7 @@ It features:
 
 ## Submission Links  
 - **GitHub Repository**: `https://github.com/YaseenBashaT/Task1-KeshavSoft`  
-- **Live Preview**: `https://yourusername.github.io/aetherflow`  
+- **Live Preview**: `https://yaseenbashat.github.io/Task1-KeshavSoft/`  
 - **Reflection Report**: This `README.md` (also available as PDF)  
 
 ---
